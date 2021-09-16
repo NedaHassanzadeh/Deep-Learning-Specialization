@@ -17,7 +17,7 @@ This Repository contains the assignments and projects of the [Deep Learning Spec
 - [Week 3- Tensorflow Tutorial](https://github.com/NedaHassanzadeh/Deep-Learning-Specialization/blob/main/Improving-DNNs-Hyperparameter-Tuning-Regularization-and-Optimization/week3/TensorFlow_Tutorial.ipynb)
 
 ## Structuring Machine Learning Projects
-- Course 3 Did Not Have Assignments.
+- Course 3 did not have assignments.
 
 ## Convolutional Neural Networks
 - [Week 1- Convolution Model Step-By-Step](https://github.com/NedaHassanzadeh/Deep-Learning-Specialization/blob/main/Convolutional-Neural-Networks/week1/Convolution_model_Step_by_Step.ipynb)
