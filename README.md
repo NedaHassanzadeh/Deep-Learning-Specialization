@@ -1,5 +1,5 @@
 # Deep-Learning-Specialization
-This Repository contains the assignments and projects of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) Course on Coursera offered by `deeplearning.ai`. 
+This Repository contains the assignments and projects of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) Course on [Coursera](https://www.coursera.org) offered by `deeplearning.ai`. 
 
 ## Course 1: Neural Networks And Deep Learning
 - [Week 2- Python Basics With Numpy](https://github.com/NedaHassanzadeh/Deep-Learning-Specialization/blob/main/Neural-Networks-and-Deep-Learning/Week%202/Python%20Basics%20with%20Numpy/Python_Basics_With_Numpy.ipynb)
