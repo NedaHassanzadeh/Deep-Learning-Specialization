@@ -35,5 +35,5 @@ This Repository contains the assignments and projects of the [Deep Learning Spec
 - [Week 2- Emojify](https://github.com/NedaHassanzadeh/Deep-Learning-Specialization/blob/main/Sequence-Models/Week%202/Emojify/Emojify_v2a.ipynb)
 - [Week 2- Word Vector Representation](https://github.com/NedaHassanzadeh/Deep-Learning-Specialization/blob/main/Sequence-Models/Week%202/Word%20Vector%20Representation/Operations_on_word_vectors_v2a.ipynb)
 - [Week 3- Machine Translation](https://github.com/NedaHassanzadeh/Deep-Learning-Specialization/blob/main/Sequence-Models/Week%203/Machine%20Translation/Neural_machine_translation_with_attention_v4a.ipynb)
-- [Week 3- Neural Machine Translation]()
+- [Week 3- Neural Machine Translation](https://github.com/NedaHassanzadeh/Deep-Learning-Specialization/blob/main/Sequence-Models/Week%203/Neural%20Machine%20Translation/Neural_machine_translation_with_attention_v4a.ipynb)
 - [Week 3- Trigger Word Detection](https://github.com/NedaHassanzadeh/Deep-Learning-Specialization/blob/main/Sequence-Models/Week%203/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)
